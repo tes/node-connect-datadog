@@ -22,7 +22,10 @@ All options are optional.
 * `protocol` *boolean* include protocol tag. `default = false`
 * `response_code` *boolean* include http response codes. `default = false`
 
+## Published fork
+Tes Global has published this fork for use via npm, as [the original repo](https://github.com/tes/node-connect-datadog) has not merged PRs or published a new version for some time.
+
 ## License
 
-View the [LICENSE](https://github.com/AppPress/node-connect-datadog/blob/master/LICENSE) file.
+View the [LICENSE](https://github.com/tes/node-connect-datadog/blob/master/LICENSE) file.
 
